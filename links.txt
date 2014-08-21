@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/5207029/how-to-sort-a-list-of-objects-by-their-date-java-collections-listobject
+
+http://stackoverflow.com/questions/5927109/sort-objects-in-arraylist-by-date
+
+http://stackoverflow.com/questions/13120316/how-to-sort-date-in-descending-order-from-arraylist-date-in-android
